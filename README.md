@@ -1,6 +1,6 @@
  👋 Hi, I’m Rishika, a lover of reading, writing, and all things artistic!
  
- 👀 I’m interested in reading, writing, art, and craft.
+ 👀 I’m interested in reading, writing, exploring, singing, dancing, travelling, art, and craft.
  
  🌱 I’m currently learning MERN stack and finding inner peace through meditation and yoga.
  
