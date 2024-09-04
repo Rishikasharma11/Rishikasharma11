@@ -4,7 +4,7 @@
  
  🌱 I’m currently learning MERN stack and finding inner peace through meditation and yoga.
  
- 💞️ I’m looking to collaborate on creative tech projects that blend art and technology.
+ 🤝 I’m looking to collaborate on creative tech projects that blend art and technology.
  
  📫 Connect with me via messages or find me lost in a bookstore!
  
