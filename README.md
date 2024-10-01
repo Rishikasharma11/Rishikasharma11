@@ -1,17 +1,13 @@
- 👋 Hi, I’m Rishika, a lover of reading, writing, and all things artistic!
- 
- 👀 I’m interested in reading, writing, exploring, singing, dancing, travelling, art, and craft.
- 
- 🌱 I’m currently learning MERN stack and finding inner peace through meditation and yoga.
- 
- 🤝 I’m looking to collaborate on creative tech projects that blend art and technology.
- 
- 📫 Connect with me via messages or find me lost in a bookstore!
- 
- 😄 Pronouns: She/Her
- 
- ⚡ Fun fact: I'm diving into the tech world like a curious puppy exploring a new park, eager to learn and sniff out all the coding languages!
-<!---
-Rishikasharma11/Rishikasharma11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Rishika, a passionate tech enthusiast with a love for reading, writing, and the arts.
+
+👀 My interests span from exploring creative expression through art and craft to diving deep into the world of technology, including Python and AI/ML.
+
+🌱 I’m currently diving deep into Python and AI/ML technology, while finding inner peace through meditation and yoga.
+
+🤝 I’m eager to collaborate on innovative tech projects that bridge creativity and cutting-edge technology.
+
+📫 Feel free to connect with me here or find me immersed in a good book at the nearest bookstore!
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I'm navigating the tech world with the curiosity of a learner, excited to explore the limitless potential of AI and machine learning.
