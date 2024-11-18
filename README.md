@@ -12,6 +12,9 @@
 
 ⚡ Fun fact: I'm navigating the tech world with the curiosity of a learner, excited to explore the limitless potential of AI and machine learning.
 
+###
+<img align="right" height="150" src="https://i.pinimg.com/originals/b5/60/f5/b560f54a3552617da0a113f008443add.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishikasharma11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikasharma11" height="30" width="40" /></a>
