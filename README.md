@@ -1,12 +1,12 @@
-👋 Hi, I’m Rishika, a passionate tech enthusiast with a love for reading, writing, and the arts.
+👋 Hi, I’m Rishika, a dedicated technology professional with a strong foundation in Python and AI/ML.
 
 👀 My interests span from exploring creative expression through art and craft to diving deep into the world of technology, including Python and AI/ML.
 
-🌱 I’m currently diving deep into Python and AI/ML technology, while finding inner peace through meditation and yoga.
+🌱 I’m currently advancing my expertise in data-driven technologies, including machine learning and NLP, while maintaining balance through mindfulness practices like meditation and yoga.
 
 🤝 I’m eager to collaborate on innovative tech projects that bridge creativity and cutting-edge technology.
 
-📫 Feel free to connect with me here or find me immersed in a good book at the nearest bookstore!
+📫 Let’s connect to discuss ideas, opportunities, or advancements in the field of artificial intelligence.
 
 😄 Pronouns: She/Her
 
